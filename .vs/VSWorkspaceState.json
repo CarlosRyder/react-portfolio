@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\portfolio"
   ],
   "SelectedNode": "\\src\\content_option.js",
   "PreviewInSolutionExplorer": false
