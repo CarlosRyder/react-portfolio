@@ -5,10 +5,10 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Carlos Alberto Riascos Palacios",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
+        first: "I love developing videogames",
+        second: "I love playing videogames",
         third: "I develop mobile apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
