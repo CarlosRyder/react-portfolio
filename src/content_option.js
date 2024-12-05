@@ -84,7 +84,7 @@ const dataportfolio = [{
     },
     {
         img: "https://img.itch.zone/aW1nLzE3NTY5OTc1LnBuZw==/315x250%23c/sFg%2BWz.png",
-        description: "Experience a new game of platforming in The Worst Assassin! The objective is simple: navigate through the challenging level and defeat your enemies. But be careful, every time you attack, you hurt yourself. Master the art of evasion and strategy to survive and complete your mission before it's too late.",
+        description: "Experience a new game of platforming in The Worst Assassin! The objective is simple: navigate through the challenging level and defeat your enemies. But be careful, every time you attack, you hurt yourself.",
         link: "https://sofiarizap.itch.io/the-worst-assassin",
     },
 ];
