@@ -64,7 +64,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://cdn.discordapp.com/attachments/852766959711944714/1281355302423367760/BrokenDimension_1_1_1.png?ex=66db6a9e&is=66da191e&hm=0b558459b72def97c2acf77d1914c4526176c30b0718a9a8443559d37acd5582&",
+        img: "https://img.itch.zone/aW1nLzE3MzUzMjM4LnBuZw==/315x250%23c/X7Czne.png",
         description: "In Broken Dimension: Dual Crystal, you navigate between two contrasting dimensions—a peaceful Light Dimension and a perilous Darkness Dimension.",
         link: "https://changuacq.itch.io/broken-dimension-dual-crystal",
     },
