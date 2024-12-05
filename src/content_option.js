@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop videogames",
     },
     description: "As a dedicated game developer, I am passionate about creating exceptional gaming experiences that meet the highest standards of quality.",
-    your_img_url: "https://scontent.fclo8-1.fna.fbcdn.net/v/t39.30808-6/469247911_543691155330081_4126946069009675214_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGVV2c_9c053UxMBmZFnL607yNsOVaDgLPvI2w5VoOAs-ULsvnUBHOBfcWOgwVyhGnAgrl2Dt5hE315Qa4sZ1tM&_nc_ohc=PhNJ_b9p7cMQ7kNvgErJ6yS&_nc_zt=23&_nc_ht=scontent.fclo8-1.fna&_nc_gid=AyQghPjj03yF0k2NYioIRLO&oh=00_AYC5GMVD1hUSiqvZvDTqnAn55erR9BonbF1djF6LqwjTgA&oe=675733C9",
+    your_img_url: "https://scontent.fclo8-1.fna.fbcdn.net/v/t39.30808-6/469236345_543692521996611_1394388215659272954_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHket8puPU3iX8-JABKJtFyCjh0ggVsQtAKOHSCBWxC0OKxeD1gngmRWEwiIVlJWMm37jM0cYKjKW59W-czZUy-&_nc_ohc=k2hyg4B0ZxoQ7kNvgG1a4v0&_nc_zt=23&_nc_ht=scontent.fclo8-1.fna&_nc_gid=AAj6c-YjuTV-iaS97GzeG4e&oh=00_AYCDafZABFbvI5P4IrTUTACw69kj4_8cOoJgLMSP6t_abQ&oe=67572A15",
 };
 
 const dataabout = {
