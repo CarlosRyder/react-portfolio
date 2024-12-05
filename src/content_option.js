@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop videogames",
     },
     description: "As a dedicated game developer, I am passionate about creating exceptional gaming experiences that meet the highest standards of quality.",
-    your_img_url: "https://drive.google.com/file/d/1XkxI57V9Uoa-ll81H88b5_Wbx8C-WR_F/view?usp=sharing",
+    your_img_url: "https://scontent.fclo8-1.fna.fbcdn.net/v/t39.30808-6/469049583_543689175330279_7011194568150716467_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFut81i_W9ne2XtQsbYH4TZp0mjkQN3o5mnSaORA3ejmdM4ICZp_yzdqJ5TH8dSR2kJT9yrNYFIFgB3hRrF8YQ5&_nc_ohc=XIVWYzlcX3UQ7kNvgE7XN1T&_nc_zt=23&_nc_ht=scontent.fclo8-1.fna&_nc_gid=A1I9yXglmRo8xdMXFCxk91V&oh=00_AYB4i3ugqSdKPvJGDel4TK6FUWNcTlQkutM1UWQMmvvj4Q&oe=6757252E",
 };
 
 const dataabout = {
