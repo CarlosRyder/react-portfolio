@@ -69,21 +69,21 @@ const dataportfolio = [{
         link: "https://changuacq.itch.io/broken-dimension-dual-crystal",
     },
     {
-        img: "https://cdn.discordapp.com/attachments/852766959711944714/1281358589042233537/1YEPo5.png?ex=66db6dae&is=66da1c2e&hm=247f33f73eacef3a2364d0fe4ee601627ff96c474bd456d861ec14671f38e2db&",
+        img: "https://img.itch.zone/aW1nLzE3MDQ3Nzc1LnBuZw==/315x250%23c/hQANDf.png",
         description: "Ghost Whisperer: Anne's Diary is an interactive narrative game that immerses you in the intriguing and supernatural life of Anne, a young woman with the extraordinary ability to communicate with ghosts.",
         link: "https://acchan23.itch.io/ghost-whisperer-annes-diary",
     },
     {
-        img: "https://cdn.discordapp.com/attachments/852766959711944714/1281366865616179282/imagen_2024-09-05_163359885.png?ex=66db7563&is=66da23e3&hm=d057f9d57796a17bdeeb5f5b7c2c8f750201e1a98ee43ad691000eb416bd4798&",
+        img: "https://img.itch.zone/aW1nLzEzMzAwMDcwLnBuZw==/315x250%23c/wN9HqL.png",
         description: "A video game that allows you to have an immersive multimedia experience, enabling you to take on the role of a vehicle driver while following traffic rules in the city of Cali, Colombia",
         link: "https://carlosryder.itch.io/autodidactico",
     },    {
-        img: "https://cdn.discordapp.com/attachments/852766959711944714/1281364214749069493/ZkNKZL_2.png?ex=66db72eb&is=66da216b&hm=a600b15ff49a37140b7838e8eb39221d6de7ea35d2e21e9c3c45ac05e86ccdd5&",
+        img: "https://img.itch.zone/aW1nLzE2NjgyMzIyLnBuZw==/315x250%23c/SjIr%2Fp.png",
         description: "Experience the thrill of driving in CarDriver Simulator - Pizza Lover! The objective is simple: collect every pizza on your way to the finish line without colliding with any obstacles and before the time is out.",
         link: "https://carlosryder.itch.io/cardriver-simulator-pizza-lover",
     },
     {
-        img: "https://cdn.discordapp.com/attachments/852766959711944714/1281362391271215156/the_worst_assasin.png?ex=66db7138&is=66da1fb8&hm=65b9a49c682fe70f8967005e88533c81c99c944aa9247f96fb79ddd3f7177270&",
+        img: "https://img.itch.zone/aW1nLzE3NTY5OTc1LnBuZw==/315x250%23c/sFg%2BWz.png",
         description: "Experience a new game of platforming in The Worst Assassin! The objective is simple: navigate through the challenging level and defeat your enemies. But be careful, every time you attack, you hurt yourself. Master the art of evasion and strategy to survive and complete your mission before it's too late.",
         link: "https://sofiarizap.itch.io/the-worst-assassin",
     },
